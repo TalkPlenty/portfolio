@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+}
+
+@font-face {
+	font-family: gay;
+	src: url("fonts/Brooklyn-Bold.woff")
+}
+
+.title {
+	background: #2ed5f3;
+	padding: 4em;
+	margin: 4em;
+	font-family: gay;
+}
